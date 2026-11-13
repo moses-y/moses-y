@@ -5,7 +5,7 @@
   <a href="https://moses-y.github.io"><img src="https://img.shields.io/badge/Portfolio-moses--y.github.io-0E6E74?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mosesyebei"><img src="https://img.shields.io/badge/LinkedIn-mosesyebei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@mosesmyn"><img src="https://img.shields.io/badge/Medium-@mosesmyn-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:mosesyebei@gmail.com"><img src="https://img.shields.io/badge/Email-mosesyebei%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://cal.com/moses-yebei"><img src="https://img.shields.io/badge/Book_a_call-cal.com-0E6E74?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a call"></a>
 </p>
 
 ---

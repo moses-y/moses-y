@@ -53,8 +53,6 @@
 
 ### GitHub activity
 
-### GitHub activity
-
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=moses-y&hide_border=true&ring=0E6E74&fire=0E6E74&currStreakLabel=0E6E74" alt="GitHub streak">
 </p>

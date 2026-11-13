@@ -21,11 +21,11 @@
 
 | Project | What it does | Result |
 |---|---|---|
-| **Trade finance document AI** (Standard Bank South Africa) | Extracts and validates letter of credit documents, runs sanctions screening and Eximbills checks. A reviewer makes every decision. | Self-hosted 27B model on one 48GB GPU. Cost model at 1M documents per year settled the build or buy decision. |
-| **Autar.ai agent platform** | Autonomous repository maintenance with 7 parallel agents on a knowledge graph (149 entity types). | I led AI engineering and ran production reliability on GKE. |
+| **Trade finance document AI** (a major African bank) | Extracts and validates letter of credit documents, runs sanctions screening and Eximbills checks. A reviewer makes every decision. | Self-hosted 27B model on one 48GB GPU. Cost model at 1M documents per year settled the build or buy decision. |
+| **Agent platform (fast-paced US startup)** | Autonomous repository maintenance with 7 parallel agents on a knowledge graph (149 entity types). | I led AI engineering and ran production reliability on GKE. |
 | **Tender intelligence pipeline** | Crawls procurement portals in 12 countries and UN portals, then scores and routes notices with an LLM-as-a-judge gate. | Runs on a schedule with monitoring. |
 | **Invoice automation** | Finance and audit automation with approvals and audit logs. | Cycle cut from about 15 days to under 1 hour. |
-| **Legal document intelligence** (SALIX Data) | NLP and ML pipelines for US law firms. | 1M+ documents at 99 percent accuracy. |
+| **Legal document intelligence** (top US law firms) | NLP and ML pipelines for legal document review. | 1M+ documents at 99 percent accuracy. |
 
 ### Tools I use
 

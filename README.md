@@ -53,9 +53,10 @@
 
 ### GitHub activity
 
+### GitHub activity
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moses-y&show_icons=true&hide_border=true&theme=transparent&title_color=0E6E74&icon_color=0E6E74" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-y&layout=compact&hide_border=true&theme=transparent&title_color=0E6E74" alt="Top languages">
+  <img height="165" src="https://streak-stats.demolab.com?user=moses-y&hide_border=true&ring=0E6E74&fire=0E6E74&currStreakLabel=0E6E74" alt="GitHub streak">
 </p>
 
 ---
